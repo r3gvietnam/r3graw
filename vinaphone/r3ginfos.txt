@@ -1,12 +1,3 @@
-tên gói cước 1
-dòng 1
-dòng 2
-chi tiết gói
-cú pháp đăng kí|đầu số đăng kí (cách nhau bởi dấu |)
-cú pháp hủy|đầu số hủy (cách nhau bởi dấu |)
-cú pháp xác nhận|đầu số xác nhận
-(cách nhau bởi 1 dấu xuống hàng)
-
 3G MAX
 Chu kỳ cước 30 ngày
 Giá cước 70.000đ
