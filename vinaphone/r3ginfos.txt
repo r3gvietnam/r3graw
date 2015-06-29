@@ -4,7 +4,15 @@ Cước phí 50.000đ
 Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
 DK3 MAX|7089
 HUY MAX|888
-Y 10|1543
+1
+
+Dịch vụ ABC
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
+DK3 MAX|7089
+HUY MAX|888
+0
 
 MAX
 Dung lượng miễn phí 600MB
@@ -12,7 +20,7 @@ Cước phí 50.000đ
 Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
 DK3 MAX|7089
 HUY MAX|888
-Y 10|1543
+1
 
 MAX
 Dung lượng miễn phí 600MB
@@ -20,60 +28,4 @@ Cước phí 50.000đ
 Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
 DK3 MAX|7089
 HUY MAX|888
-Y 10|1543
-
-MAX
-Dung lượng miễn phí 600MB
-Cước phí 50.000đ
-Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
-DK3 MAX|7089
-HUY MAX|888
-Y 10|1543
-
-MAX
-Dung lượng miễn phí 600MB
-Cước phí 50.000đ
-Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
-DK3 MAX|7089
-HUY MAX|888
-Y 10|1543
-
-MAX
-Dung lượng miễn phí 600MB
-Cước phí 50.000đ
-Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
-DK3 MAX|7089
-HUY MAX|888
-Y 10|1543
-
-MAX
-Dung lượng miễn phí 600MB
-Cước phí 50.000đ
-Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
-DK3 MAX|7089
-HUY MAX|888
-Y 10|1543
-
-MAX
-Dung lượng miễn phí 600MB
-Cước phí 50.000đ
-Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
-DK3 MAX|7089
-HUY MAX|888
-Y 10|1543
-
-MAX
-Dung lượng miễn phí 600MB
-Cước phí 50.000đ
-Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
-DK3 MAX|7089
-HUY MAX|888
-Y 10|1543
-
-MAX
-Dung lượng miễn phí 600MB
-Cước phí 50.000đ
-Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
-DK3 MAX|7089
-HUY MAX|888
-Y 10|1543
+0
