@@ -1,95 +1,79 @@
 MAX
-30 Ngày
-70.000d
-600MB
-Miễn Phí
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
 DK3 MAX|7089
 HUY MAX|888
+Y 10|1543
 
-MAX100
-30 Ngày
-100.000d
-1,2GB
-Miễn Phí
-DK3 MAX100|7089
-HUY MAX100|888
+MAX
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
+DK3 MAX|7089
+HUY MAX|888
+Y 10|1543
 
-MAX100
-30 Ngày
-200.000d
-3GB
-Miễn Phí
-DK3 MAX200|7089
-HUY MAX200|888
+MAX
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
+DK3 MAX|7089
+HUY MAX|888
+Y 10|1543
 
-M10
-30 Ngày
-10.000d
-50MB
-0,5đ/KB
-DK3 M10|7089
-HUY M10|888
+MAX
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
+DK3 MAX|7089
+HUY MAX|888
+Y 10|1543
 
-M25
-30 Ngày
-25.000d
-150MB
-0,5đ/KB
-DK3 M25|7089
-HUY M25|888
+MAX
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
+DK3 MAX|7089
+HUY MAX|888
+Y 10|1543
 
-M50
-30 Ngày
-50.000d
-500MB
-0,5đ/KB
-DK3 M50|7089
-HUY M50|888
+MAX
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
+DK3 MAX|7089
+HUY MAX|888
+Y 10|1543
 
-M120
-30 Ngày
-120.000d
-1,5GB
-0,5đ/KB
-DK3 M120|7089
-HUY M120|888
+MAX
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
+DK3 MAX|7089
+HUY MAX|888
+Y 10|1543
 
-EZCOM EZ50
-30 Ngày
-50.000d
-500MB
-200đ/MB
-DK3 EZ50|7089
-HUY EZ50|888
+MAX
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
+DK3 MAX|7089
+HUY MAX|888
+Y 10|1543
 
-EZCOM EZ120
-30 Ngày
-120.000d
-1,5GB
-200đ/MB
-DK3 EZ120|7089
-HUY EZ120|888
+MAX
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
+DK3 MAX|7089
+HUY MAX|888
+Y 10|1543
 
-EZCOM EZMAX
-30 Ngày
-70.000d
-600MB
-Miễn Phí
-DK3 EZMAX|7089
-HUY EZMAX|888
-
-EZCOM EZMAX100
-30 Ngày
-100.000d
-1,2GB
-Miễn Phí
-DK3 EZMAX100|7089
-HUY EZMAX100|888
-
-EZCOM EZMAX200
-30 Ngày
-200.000d
-3GB
-Miễn Phí
-DK3 EZMAX200|7089
-HUY EZMAX200|888
+MAX
+Dung lượng miễn phí 600MB
+Cước phí 50.000đ
+Thời hạn sử dụng 30 ngày|Giá cước 70.000đ|Dung lượng miễn phí 600MB|Cước ngoài gói: Miễn phí
+DK3 MAX|7089
+HUY MAX|888
+Y 10|1543
