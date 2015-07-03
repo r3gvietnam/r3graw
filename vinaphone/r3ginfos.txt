@@ -14,7 +14,7 @@ DK3 MAX100|7089
 HUY MAX100|888
 1
 
-3G MAX100
+3G MAX200
 Chu kỳ cước 30 Ngày
 Giá cước 200.000đ
 Dung lượng miễn phí 3GB. Cước vượt gói miễn Phí
