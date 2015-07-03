@@ -6,10 +6,34 @@ DK3 MIU|7089
 HUY MIU|999
 1
 
-3G MIU 50k
+3G MIU Sinh Viên 50k
 Chỉ áp dụng với sim Sinh Viên, Không giới hạn dung lượng.
 Giá cước chỉ 50.000đ
 Chu kỳ cước 30 Ngày, Không giới hạn dung lượng.
 DK3 MIU|7089
 HUY MIU|999
+1
+
+3G M10
+Chu kỳ cước 30 ngày
+Giá cước 10.000đ
+Dung lượng 50MB .Cước vượt gói miễn phí.
+DK3 M10|7089
+HUY M10|999
+1
+
+3G M25
+Chu kỳ cước 30 ngày
+Giá cước 25.000đ
+Dung lượng 150MB .Cước vượt gói 25đ/50KB.
+DK3 M25|7089
+HUY M25|999
+1
+
+3G M50
+Chu kỳ cước 30 ngày
+Giá cước 50.000đ
+Dung lượng 450MB .Cước vượt gói 25đ/50KB.
+DK3 M50|7089
+HUY M50|999
 1
