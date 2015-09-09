@@ -6,7 +6,7 @@ MIMAX|191
 HUY|191
 1
 
-3G MIMAXSV Sim SV
+3G MIMAXSV (Dành cho sim Học Sinh, Sinh Viên)
 Chu kỳ cước 30 ngày
 Giá cước 50.000đ
 Dung lượng miễn phí 2GB. Cước vượt gói miễn phí.
@@ -19,5 +19,29 @@ Chu kỳ cước 30 ngày
 Giá cước 90.000đ
 Dung lượng miễn phí 1.2GB. Cước vượt gói miễn phí.
 MIMAX90|191
+HUY|191
+1
+
+3G MI10
+Chu kỳ cước 30 ngày
+Giá cước 10.000đ
+Dung lượng miễn phí 50MB. Cước vượt gói miễn phí.
+MI10|191
+HUY|191
+1
+
+3G MI30
+Chu kỳ cước 30 ngày
+Giá cước 30.000đ
+Dung lượng miễn phí 200MB. Cước vượt gói miễn phí.
+MI30|191
+HUY|191
+1
+
+3G MI50
+Chu kỳ cước 30 ngày
+Giá cước 50.000đ
+Dung lượng miễn phí 450MB. Cước vượt gói miễn phí.
+MI50|191
 HUY|191
 1
