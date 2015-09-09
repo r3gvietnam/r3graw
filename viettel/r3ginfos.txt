@@ -25,7 +25,7 @@ HUY|191
 3G MI10
 Chu kỳ cước 30 ngày
 Giá cước 10.000đ
-Dung lượng miễn phí 50MB. Cước vượt gói miễn phí.
+Dung lượng miễn phí 50MB. Cước vượt gói 25đ/50Kb.
 MI10|191
 HUY|191
 1
@@ -33,7 +33,7 @@ HUY|191
 3G MI30
 Chu kỳ cước 30 ngày
 Giá cước 30.000đ
-Dung lượng miễn phí 200MB. Cước vượt gói miễn phí.
+Dung lượng miễn phí 200MB. Cước vượt gói 25đ/50Kb.
 MI30|191
 HUY|191
 1
@@ -41,7 +41,7 @@ HUY|191
 3G MI50
 Chu kỳ cước 30 ngày
 Giá cước 50.000đ
-Dung lượng miễn phí 450MB. Cước vượt gói miễn phí.
+Dung lượng miễn phí 450MB. Cước vượt gói 25đ/50Kb.
 MI50|191
 HUY|191
 1
