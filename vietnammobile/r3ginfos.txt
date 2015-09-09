@@ -1,1 +1,63 @@
+3G D40 40k
+Chu kỳ cước 30 ngày
+Giá cước 40.000đ
+Dung lượng miễn phí 1.3GB. Cước vượt gói 75đ/15kB.
+DK D40|345
+HUY D40|345
+1
 
+3G D80 80k
+Chu kỳ cước 30 ngày
+Giá cước 80.000đ
+Dung lượng miễn phí 2.2GB. Cước vượt gói 75đ/15kB.
+DK D80|345
+HUY D80|345
+1
+
+3G D125 125k
+Chu kỳ cước 30 ngày
+Giá cước 125.000đ
+Dung lượng miễn phí 3GB. Cước vượt gói 75đ/15kB.
+DK D125|345
+HUY D125|345
+1
+
+3G D200 200k
+Chu kỳ cước 30 ngày
+Giá cước 200.000đ
+Dung lượng miễn phí 5GB. Cước vượt gói 75đ/15kB.
+DK D200|345
+HUY D200|345
+1
+
+3G N10 Ban Đêm
+Chu kỳ cước 6 giờ
+Giá cước 10.000đ
+Dung lượng Không giới hạn từ 1h - 7h sáng hàng ngày.
+DK N10|345
+HUY N10|345
+1
+
+3G D1 5k
+Chu kỳ cước 1 ngày
+Giá cước 5.000đ
+Dung lượng miễn phí 120MB. Cước vượt gói 75đ/15kB.
+DK D1|345
+HUY D1|345
+1
+
+3G D10 10k
+Chu kỳ cước 10 ngày
+Giá cước 10.000đ
+Dung lượng miễn phí 120MB. Cước vượt gói 75đ/15kB.
+DK D10|345
+HUY D10|345
+1
+
+3G D25 25k
+Chu kỳ cước 20 ngày
+Giá cước 25.000đ
+Dung lượng miễn phí 400MB. Cước vượt gói 75đ/15kB.
+DK D25|345
+HUY D25|345
+1
