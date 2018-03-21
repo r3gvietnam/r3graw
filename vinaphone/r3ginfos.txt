@@ -2,7 +2,7 @@
 Chu kỳ cước 30 ngày
 Giá cước 70.000đ
 Dung lượng miễn phí 600MB. Cước vượt gói miễn phí.
-DK3 MAX|7089
+DATA5 MAX|1544
 HUY MAX|888
 1
 
@@ -10,7 +10,7 @@ HUY MAX|888
 Chu kỳ cước 30 Ngày
 Giá cước 100.000đ
 Dung lượng miễn phí 1,2GB. Cước vượt gói miễn Phí
-DK3 MAX100|7089
+DATA5 MAX100|1544
 HUY MAX100|888
 1
 
@@ -18,7 +18,7 @@ HUY MAX100|888
 Chu kỳ cước 30 Ngày
 Giá cước 200.000đ
 Dung lượng miễn phí 3GB. Cước vượt gói miễn Phí
-DK3 MAX200|7089
+DATA5 MAX200|1544
 HUY MAX200|888
 1
 
@@ -26,7 +26,7 @@ HUY MAX200|888
 Chu kỳ cước 30 Ngày
 Giá cước 10.000đ
 Dung lượng miễn phí 50MB. Cước vượt gói 0,5đ/KB
-DK3 M10|7089
+DATA5 M10|1544
 HUY M10|888
 1
 
@@ -34,7 +34,7 @@ HUY M10|888
 Chu kỳ cước 30 Ngày
 Giá cước 25.000đ
 Dung lượng miễn phí 150MB. Cước vượt gói 0,5đ/KB
-DK3 M25|7089
+DATA5 M25|1544
 HUY M25|888
 1
 
@@ -42,7 +42,7 @@ HUY M25|888
 Chu kỳ cước 30 Ngày
 Giá cước 50.000đ
 Dung lượng miễn phí 500MB. Cước vượt gói 0,5đ/KB
-DK3 M50|7089
+DATA5 M50|1544
 HUY M50|888
 1
 
@@ -50,7 +50,7 @@ HUY M50|888
 Chu kỳ cước 30 Ngày
 Giá cước 120.000đ
 Dung lượng miễn phí 1,5GB. Cước vượt gói 0,5đ/KB
-DK3 M120|7089
+DATA5 M120|1544
 HUY M120|888
 1
 
@@ -58,7 +58,7 @@ HUY M120|888
 Chu kỳ cước 30 Ngày
 Giá cước 50.000đ
 Dung lượng miễn phí 500MB. Cước vượt gói 200đ/MB
-DK3 EZ50|7089
+DATA5 EZ50|1544
 HUY EZ50|888
 1
 
@@ -66,7 +66,7 @@ HUY EZ50|888
 Chu kỳ cước 30 Ngày
 Giá cước 120.000đ
 Dung lượng miễn phí 1,5GB. Cước vượt gói 200đ/MB
-DK3 EZ120|7089
+DATA5 EZ120|1544
 HUY EZ120|888
 1
 
@@ -74,7 +74,7 @@ HUY EZ120|888
 Chu kỳ cước 30 Ngày
 Giá cước 70.000đ
 Dung lượng miễn phí 600MB. Cước vượt gói miễn Phí
-DK3 EZMAX|7089
+DATA5 EZMAX|1544
 HUY EZMAX|888
 1
 
@@ -82,7 +82,7 @@ HUY EZMAX|888
 Chu kỳ cước 30 Ngày
 Giá cước 100.000đ
 Dung lượng miễn phí 1,2GB. Cước vượt gói miễn Phí
-DK3 EZMAX100|7089
+DATA5 EZMAX100|1544
 HUY EZMAX100|888
 1
 
@@ -90,7 +90,7 @@ HUY EZMAX100|888
 Chu kỳ cước 30 Ngày
 Giá cước 200.000đ
 Dung lượng miễn phí 3GB. Cước vượt gói miễn Phí
-DK3 EZMAX200|7089
+DATA5 EZMAX200|1544
 HUY EZMAX200|888
 1
 
@@ -98,7 +98,7 @@ HUY EZMAX200|888
 Chu kỳ cước 30 Ngày
 Giá cước 50.000đ
 Dung lượng miễn phí 350MB. Cước vượt gói miễn Phí
-DK3 BBMU|7089
+DATA5 BBMU|1544
 BBMU OFF|888
 1
 
@@ -106,7 +106,7 @@ Báo Gọi Nhỡ MCA
 Dịch vụ Thông báo cuộc gọi nhỡ MCA
 Giá cước 5.000đ - Chu kỳ cước 30 ngày
 Dịch vụ Thông báo cuộc gọi nhỡ MCA nhằm mục đích thông báo cho thuê bao VinaPhone biết các số máy điện thoại gọi đến nhưng không thành công do thuê bao tắt máy hoặc ngoài vùng phủ sóng. Ngay sau khi thuê bao MCA bật máy hoặc trở lại vùng phủ sóng, hệ thống sẽ gửi bản tin SMS liệt kê các cuộc gọi đến bị nhỡ (bao gồm số máy và thời điểm gọi đến).
-DK3 MCA|7089
+DATA5 MCA|1544
 HUY|333
 0
 
@@ -114,7 +114,7 @@ Chặn Cuộc Gọi CALL BLOCKING
 Dịch vụ chặn cuộc gọi từ các số không mong muốn
 Giá cước 10.000đ - Chu kỳ cước 30 ngày
 Dịch vụ CHẶN CUỘC GỌI- CALL BLOCKING (Black-list) là dịch vụ cho phép thuê bao di động của VinaPhone có thể chặn cuộc gọi đến của 1 hay nhiều thuê bao di động khác nhau trong danh sách Black-list mà khách hàng đã đăng ký.
-DK3 CB|7089
+DATA5 CB|1544
 HUY|9336
 0
 
@@ -122,7 +122,7 @@ Nhạc Chờ Vinaphone
 Cài nhạc chờ cho số điện thoại của bạn.
 Giá cước 9.000đ - Chu kỳ cước 30 ngày
 Dịch vụ Nhạc chờ cho người gọi - RingTunes là dịch vụ giá trị gia tăng cho phép các thuê bao di động của mạng VinaPhone có thể lựa chọn bài hát hay những hiệu ứng âm thanh ưa thích thay cho tín hiệu chờ thông thoại của tổng đài.
-DK3 RBT|7089
+DATA5 RBT|1544
 HUY|9194
 0
 
@@ -130,7 +130,7 @@ Xem TV - MTV
 Xem trực tiếp 35 kênh truyền hình đặc sắc trên di động.
 Giá cước 10.000đ - Chu kỳ cước 7 ngày
 Dịch vụ xem TV Gói MTV: Xem 35 kênh truyền hình đặc sắc trên di động (10.000đ/7 ngày).
-DK3 MTV|7089
+DATA5 MTV|1544
 HUY MTV|777
 0
 
@@ -138,7 +138,7 @@ Xem TV - VTC
 Xem trực tiếp 8 kênh VTC đặc sắc
 Giá cước 9.000đ - Chu kỳ cước 7 ngày
 Dịch vụ xem TV Gói VTC: Xem 8 kênh VTC đặc sắc (9.000đ/7 ngày).
-DK3 VTC|7089
+DATA5 VTC|1544
 HUY VTC|777
 0
 
@@ -146,7 +146,7 @@ Xem TV - VTVcab
 Xem trực tiếp 12 kênh truyền hình cáp trên di động
 Giá cước 9.000đ - Chu kỳ cước 7 ngày
 Dịch vụ xem TV Gói VTVcab: Xem 12 kênh truyền hình cáp trên di động (9.000đ/7 ngày).
-DK3 CAB|7089
+DATA5 CAB|1544
 HUY CAB|777
 0
 
@@ -154,6 +154,6 @@ Xem TV - Phim Truyện
 Xem trực tiếp TV các phim truyện hẫp dẫn (9.000đ/7 ngày).
 Giá cước 9.000đ - Chu kỳ cước 7 ngày
 Dịch vụ xem TV Gói CTV: Kênh phim truyện hẫp dẫn (9.000đ/7 ngày).
-DK3 CTV|7089
+DATA5 CTV|1544
 HUY CTV|777
 0
