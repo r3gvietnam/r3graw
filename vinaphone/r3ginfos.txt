@@ -108,7 +108,7 @@ Giá cước 5.000đ - Chu kỳ cước 30 ngày
 Dịch vụ Thông báo cuộc gọi nhỡ MCA nhằm mục đích thông báo cho thuê bao VinaPhone biết các số máy điện thoại gọi đến nhưng không thành công do thuê bao tắt máy hoặc ngoài vùng phủ sóng. Ngay sau khi thuê bao MCA bật máy hoặc trở lại vùng phủ sóng, hệ thống sẽ gửi bản tin SMS liệt kê các cuộc gọi đến bị nhỡ (bao gồm số máy và thời điểm gọi đến).
 DATA5 MCA|1544
 HUY|333
-0
+1
 
 Chặn Cuộc Gọi CALL BLOCKING
 Dịch vụ chặn cuộc gọi từ các số không mong muốn
@@ -116,7 +116,7 @@ Giá cước 10.000đ - Chu kỳ cước 30 ngày
 Dịch vụ CHẶN CUỘC GỌI- CALL BLOCKING (Black-list) là dịch vụ cho phép thuê bao di động của VinaPhone có thể chặn cuộc gọi đến của 1 hay nhiều thuê bao di động khác nhau trong danh sách Black-list mà khách hàng đã đăng ký.
 DATA5 CB|1544
 HUY|9336
-0
+1
 
 Nhạc Chờ Vinaphone
 Cài nhạc chờ cho số điện thoại của bạn.
@@ -124,7 +124,7 @@ Giá cước 9.000đ - Chu kỳ cước 30 ngày
 Dịch vụ Nhạc chờ cho người gọi - RingTunes là dịch vụ giá trị gia tăng cho phép các thuê bao di động của mạng VinaPhone có thể lựa chọn bài hát hay những hiệu ứng âm thanh ưa thích thay cho tín hiệu chờ thông thoại của tổng đài.
 DATA5 RBT|1544
 HUY|9194
-0
+1
 
 Xem TV - MTV
 Xem trực tiếp 35 kênh truyền hình đặc sắc trên di động.
@@ -132,7 +132,7 @@ Giá cước 10.000đ - Chu kỳ cước 7 ngày
 Dịch vụ xem TV Gói MTV: Xem 35 kênh truyền hình đặc sắc trên di động (10.000đ/7 ngày).
 DATA5 MTV|1544
 HUY MTV|777
-0
+1
 
 Xem TV - VTC
 Xem trực tiếp 8 kênh VTC đặc sắc
@@ -140,7 +140,7 @@ Giá cước 9.000đ - Chu kỳ cước 7 ngày
 Dịch vụ xem TV Gói VTC: Xem 8 kênh VTC đặc sắc (9.000đ/7 ngày).
 DATA5 VTC|1544
 HUY VTC|777
-0
+1
 
 Xem TV - VTVcab
 Xem trực tiếp 12 kênh truyền hình cáp trên di động
@@ -148,7 +148,7 @@ Giá cước 9.000đ - Chu kỳ cước 7 ngày
 Dịch vụ xem TV Gói VTVcab: Xem 12 kênh truyền hình cáp trên di động (9.000đ/7 ngày).
 DATA5 CAB|1544
 HUY CAB|777
-0
+1
 
 Xem TV - Phim Truyện
 Xem trực tiếp TV các phim truyện hẫp dẫn (9.000đ/7 ngày).
@@ -156,4 +156,4 @@ Giá cước 9.000đ - Chu kỳ cước 7 ngày
 Dịch vụ xem TV Gói CTV: Kênh phim truyện hẫp dẫn (9.000đ/7 ngày).
 DATA5 CTV|1544
 HUY CTV|777
-0
+1
