@@ -1,15 +1,55 @@
-3G MIU 70.000đ
+3G MAX 70.000đ
 Chu kỳ cước 30 ngày
 Giá cước 70.000đ
 Dung lượng miễn phí 600MB. Cước vượt gói miễn phí.
-DK4 MIU|1544
-HUY MIU|999
+DATA5 MAX|1544
+HUY MIU|888
 1
 
-3G MIU Sinh Viên 50k
-Chỉ áp dụng với sim Sinh Viên, Không giới hạn dung lượng.
-Giá cước chỉ 50.000đ
-Chu kỳ cước 30 Ngày, Không giới hạn dung lượng.
-DK4 MIU|1544
-HUY MIU|999
+3G MAX1 100.000đ
+Chu kỳ cước 30 ngày
+Giá cước 100.000đ
+Dung lượng miễn phí 1.2GB. Cước vượt gói miễn phí.
+DATA5 MAX1|1544
+HUY MAX1|888
+1
+
+3G MAX2 200.000đ
+Chu kỳ cước 30 ngày
+Giá cước 200.000đ
+Dung lượng miễn phí 3GB. Cước vượt gói miễn phí.
+DATA5 MAX2|1544
+HUY MAX2|888
+1
+
+3G MAX3 300.000đ
+Chu kỳ cước 30 ngày
+Giá cước 300.000đ
+Dung lượng miễn phí 30GB. Cước vượt gói miễn phí.
+DATA5 MAX3|1544
+HUY MAX3|888
+1
+
+4G 79K (PHẢI CÓ SIM 4G)
+Chu kỳ cước 30 ngày
+Giá cước 79.000đ
+2GB/tháng, tặng thêm 30 phút nội mạng + 30 SMS nội mạng.
+DATA5 S79|1544
+HUY S79|888
+1
+
+4G 199K (PHẢI CÓ SIM 4G)
+Chu kỳ cước 30 ngày
+Giá cước 199.000đ
+6GB/tháng, tặng thêm 30 phút nội mạng + 30 SMS nội mạng.
+DATA5 S199|1544
+HUY S199|888
+1
+
+4G 299K (PHẢI CÓ SIM 4G)
+Chu kỳ cước 30 ngày
+Giá cước 299.000đ
+10GB/tháng, tặng 30 phút nội mạng + 30 SMS nội mạng.
+DATA5 S299|1544
+HUY S199|888
 1
