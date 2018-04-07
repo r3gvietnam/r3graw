@@ -1,39 +1,47 @@
-3G MIU 70.000đ
+3G MIMAXs 70k
 Chu kỳ cước 30 ngày
 Giá cước 70.000đ
-Dung lượng miễn phí 600MB. Cước vượt gói miễn phí.
-DK MIU|999
-HUY MIU|999
+Dung lượng miễn phí 600MB. Cước vượt gói miễn phí
+MIMAX|191
+HUY|191
 1
 
-3G MIU Sinh Viên 50k
-Chỉ áp dụng với sim Sinh Viên, Không giới hạn dung lượng.
-Giá cước chỉ 50.000đ
-Chu kỳ cước 30 Ngày, Không giới hạn dung lượng.
-DK MIU|999
-HUY MIU|999
-1
-
-3G M10
-Chu kỳ cước 30 ngày
-Giá cước 10.000đ
-Dung lượng 50MB .Cước vượt gói miễn phí.
-DK M10|999
-HUY M10|999
-1
-
-3G M25
-Chu kỳ cước 30 ngày
-Giá cước 25.000đ
-Dung lượng 150MB .Cước vượt gói 25đ/50KB.
-DK M25|999
-HUY M25|999
-1
-
-3G M50
+3G MIMAXSV (Dành cho sim Học Sinh, Sinh Viên)
 Chu kỳ cước 30 ngày
 Giá cước 50.000đ
-Dung lượng 450MB .Cước vượt gói 25đ/50KB.
-DK M50|999
-HUY M50|999
+Dung lượng miễn phí 2GB. Cước vượt gói miễn phí
+MIMAXSV|191
+HUY|191
+1
+
+3G MIMAX90
+Chu kỳ cước 30 ngày
+Giá cước 90.000đ
+Dung lượng miễn phí 1.2GB. Cước vượt gói miễn phí
+MIMAX90|191
+HUY|191
+1
+
+3G MI10
+Chu kỳ cước 30 ngày
+Giá cước 10.000đ
+Dung lượng miễn phí 50MB. Cước vượt gói 25đ/50Kb
+MI10|191
+HUY|191
+1
+
+3G MI30
+Chu kỳ cước 30 ngày
+Giá cước 30.000đ
+Dung lượng miễn phí 200MB. Cước vượt gói 25đ/50Kb
+MI30|191
+HUY|191
+1
+
+3G MI50
+Chu kỳ cước 30 ngày
+Giá cước 50.000đ
+Dung lượng miễn phí 450MB. Cước vượt gói 25đ/50Kb
+MI50|191
+HUY|191
 1
